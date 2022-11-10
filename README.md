@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Courtney Stuart (she/her)! 
 
--🎓 I am a Graduate Research Assistant studying ecology in the [Change Lab](https://greenlab.ca/) at the University of Alberta.
+-🎓 I am a PhD student in in the [Oxford Seascape Ecology Lab]([https://greenlab.ca/](https://www.oxfordseascapeecologylab.com/)) at the University of Oxford.
 
--🐠 My research focuses on spatial ecology, seascape connectivity, and fish migrations, with a special emphasis on the early life histories of tropical reef fish.
+-🐠 My research focuses on marine spatial ecology, seascape connectivity, and fish migrations, with a special emphasis on the early life histories of tropical reef fish.
 
--💬 You can reach me over email at cestuart@ualberta.ca or through twitter [@c_stuart9](https://twitter.com/c_stuart9)
+-💬 You can reach me over email at courtney.e.stuart@gmail.com or through twitter [@c_stuart9](https://twitter.com/c_stuart9)
 
 -🌎 I am passionate about diversity in the scientific community, science communication and mentorship, and #WomenInGIS!
 
